@@ -1,0 +1,9 @@
+•  Developed a Deep Reinforcement Learning model to play Space Invader (Atari Games)
+
+•  Built model using Convolutional Neural Network and Deep Q-Network agent.
+
+•  Utilized Epsilon Greedy Q-Policy and Linear Annealed Policy with Duelling Network Architecture
+
+•  Trained DQN-agent to 1 million steps to achieve mean gamescore of 281.
+
+•  Agent can be trained further by changing the n_steps
